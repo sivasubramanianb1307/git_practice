@@ -1,4 +1,4 @@
-main version
+merged: main and other versions
 Second line is added to file A
 Third line in a.txt
 Experiment change 1
