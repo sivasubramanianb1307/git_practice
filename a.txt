@@ -1,4 +1,4 @@
-Main version
+main version
 Second line is added to file A
 Third line in a.txt
 Experiment change 1
