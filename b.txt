@@ -3,3 +3,4 @@ Second line is added to file B
 Third line in b.txt
 New line b.txt
 Experiment commit 2
+Change 2
