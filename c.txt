@@ -1,1 +1,2 @@
 This is file C
+Second line in c.txt
